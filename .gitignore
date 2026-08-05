@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.env
+*.env
+data/cache/
+*.parquet
+*.h5
+.DS_Store
+.idea/
+.vscode/
+mlruns/
